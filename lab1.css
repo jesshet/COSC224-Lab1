@@ -28,3 +28,14 @@
 #submission button{
     border-radius: 10px;
 }
+
+#Footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: bisque;
+    text-align: center;
+    background-color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
