@@ -1,0 +1,30 @@
+#Header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: bisque;
+    text-align: center;
+    background-color: coral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#submission{
+    margin: 15vh;
+    text-align: center;
+    border: 3px solid coral;
+    background-color: coral;
+    border-radius: 10px;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 0.5s;
+}
+
+#submission:hover{
+    box-shadow: 2px 5px 5px 0px black;
+    transition: 0.5s;
+}
+
+#submission button{
+    border-radius: 10px;
+}
